@@ -5,7 +5,7 @@ This repository contains documentation for two school projects I worked on. Belo
 ## 1. Hand Movement Controlled Mouse (Finnish Presentation Only)
 
 ### Overview
-The Hand Movement Controlled Mouse project focuses on creating a computer mouse control system based on hand movements. The project documentation, presented in Finnish, outlines the development process, implementation details, outcomes, and a presentation video as well as the code. This was done in a group of four.
+The Hand Movement Controlled Mouse project focuses on creating a computer mouse control system based on hand movements. The project documentation, presented in Finnish, outlines the development process, implementation details, outcomes, and a presentation video as well as the code. The link to the video is accessible by downloading the pdf-file. This project was done in a group of four.
 
 ### Responsibilities
 My main responsibility was in coding the software for the project and I also contributed to the development of the electrical components.

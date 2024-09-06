@@ -1,6 +1,6 @@
 # School Projects Repository
 
-This repository contains documentation for two school projects I worked on. Below, you will find a brief overview of each project along with my specific responsibilities.
+This repository contains documentation for school projects I worked on including my thesis. Below, you will find a brief overview of each project along with my specific responsibilities.
 
 ## 1. Bachelor's thesis (FIRST DRAFT)
 ### Overview

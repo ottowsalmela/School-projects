@@ -2,9 +2,9 @@
 
 This repository contains documentation for school projects I worked on including my thesis. Below, you will find a brief overview of each project along with my specific responsibilities.
 
-## 1. Bachelor's thesis (FIRST DRAFT)
+## 1. Bachelor's thesis
 ### Overview
-A first draft of my Bachelor's thesis for which I worked full-time in the Nanomaterials Group at Aalto University, during which I conducted experiments, analyzed data and wrote the thesis. The thesis covers the effect of carbon disulfide as a sulfur source in the synthesis and characteristics of carbon nanotubes in floating-catalyst chemical vapor deposition.
+My bachelor's thesis for which I worked full-time in the Nanomaterials Group at Aalto University, during which I conducted experiments, analyzed data and wrote the thesis. The thesis covers the effect of carbon disulfide as a sulfur source in the synthesis and characteristics of carbon nanotubes in floating-catalyst chemical vapor deposition. Thesis received a grade of 5/5.
 
 ## 2. Hand Movement Controlled Mouse, ELEC-A4910 (Finnish Presentation Only)
 
